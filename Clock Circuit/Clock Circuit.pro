@@ -1,4 +1,4 @@
-update=7/21/2016 7:02:21 PM
+update=3/15/2017 2:49:55 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,9 +25,19 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
-LibDir=C:/Users/Benton/Documents/SpiderOak Hive/Hobbies/Electronics/KiCAD Custom Libraries
+LibDir=D:/Documents/SpiderOak Hive/Hobbies/Electronics/KiCAD Custom Libraries
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -64,13 +74,3 @@ LibName32=Custom_CMOS4000_Series
 LibName33=Custom_ICs
 LibName34=Custom_Devices
 LibName35=switch_spdt
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
